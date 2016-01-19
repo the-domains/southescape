@@ -1,7 +1,7 @@
 name: SouthEscape
 favicon: null
-layout_spectrum: 0.98828069656156
-typography_spectrum: 0.7584726351778954
+layout_spectrum: 0.36193809122778475
+typography_spectrum: 0.6906980702187866
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7727860433515161
-  lightness: 0.24549453798681498
-  saturation: 0.9336101843509823
-  rhythmicContrast: 0.9058618727140129
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06259619118645787
+  lightness: 0.928030023118481
+  saturation: 0.8053367075044662
+  rhythmicContrast: 0.0240387418307364
 purpose: []
